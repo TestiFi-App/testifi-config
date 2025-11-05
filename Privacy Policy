@@ -46,7 +46,6 @@ We use this solely to improve the beta version.
 | **xAI (Grok API)** | Full chat content and prompts | Power the conversational AI responses during your session |
 | **Internal Team** | All beta data (chats, logs) | Quality control & development |
 
-No other third parties receive your data.  
 **Note on Grok API**: Your conversations are sent through the Grok API provided by xAI. For details on how xAI handles this data, please review their [Enterprise Privacy Policy](https://x.ai/legal/privacy-policy) and [Enterprise FAQs](https://x.ai/legal/faq-enterprise). xAI does not use API inputs/outputs for model training by default, and data is deleted within 30 days unless required otherwise.
 
 ---
