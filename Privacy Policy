@@ -1,0 +1,110 @@
+# TestiFi Privacy Policy  
+*Last Updated: November 4, 2025*
+
+TestiFi (the “App”) is operated as a DBA. This Privacy Policy explains how we collect, use, disclose, and protect information when you use the App during its beta phase. By using TestiFi, you agree to this policy.
+
+---
+
+## 1. Information We Collect
+
+### a. Information You Provide  
+- **Testimony Content**: Everything you share in the chat (your personal story about your journey to knowing Christ) becomes part of your final testimony, which is **posted publicly**.  
+- **No Account Required**: There is no sign-up, email, or username collected.
+
+### b. Automatically Collected Information  
+When you use the App, we collect:  
+- IP address  
+- Device type and operating system  
+- App usage data (e.g., timestamps, interaction patterns)  
+
+We use this solely to improve the beta version.
+
+---
+
+## 2. How We Use Your Information
+
+| Purpose | Data Used |
+|--------|-----------|
+| Generate and publish your public testimony | Chat content |
+| Provide text-to-speech (TTS) audio | Final testimony text |
+| Store media files | TTS audio files |
+| Debug and improve the App during beta | IP, device, usage logs, full chat transcripts |
+| Process conversations via AI service | Full chat content (sent to Grok API for generating responses) |
+
+**We do not sell, rent, or share your data for marketing.**  
+**We do not use your data for advertising.**
+
+---
+
+## 3. How We Share Your Information
+
+| Recipient | What Is Shared | Purpose |
+|----------|----------------|--------|
+| **Public Internet** | Final testimony + TTS audio | Core feature of the App |
+| **Google Gemini** | Final testimony text | Generate TTS audio |
+| **Backblaze B2** | TTS audio files | Secure media storage |
+| **xAI (Grok API)** | Full chat content and prompts | Power the conversational AI responses during your session |
+| **Internal Team** | All beta data (chats, logs) | Quality control & development |
+
+No other third parties receive your data.  
+**Note on Grok API**: Your conversations are sent through the Grok API provided by xAI. For details on how xAI handles this data, please review their [Enterprise Privacy Policy](https://x.ai/legal/privacy-policy) and [Enterprise FAQs](https://x.ai/legal/faq-enterprise). xAI does not use API inputs/outputs for model training by default, and data is deleted within 30 days unless required otherwise.
+
+---
+
+## 4. Public Nature of Testimonies
+
+- Your finished testimony (text + audio) will be **publicly viewable** by anyone with the link or on the App’s public gallery.  
+- **Do NOT include real names, locations, contact info, or any other PII** you want kept private.  
+- Once published, testimonies **cannot be edited or removed** during beta.
+
+---
+
+## 5. Data Security
+
+We use industry-standard measures:  
+- TLS encryption in transit  
+- Encrypted storage on Backblaze  
+- Access restricted to the development team  
+
+No system is 100% secure; we cannot guarantee absolute protection.
+
+---
+
+## 6. Data Retention & Deletion
+
+- **Beta Data**: All chats, logs, and usage data will be **permanently deleted** once beta testing ends and the App launches publicly.  
+- **Public Testimonies**: Remain online indefinitely (unless the entire service shuts down).  
+- **Grok API Data**: Handled per xAI's retention policy (typically 30 days for inputs/outputs).
+
+---
+
+## 7. Children’s Privacy
+
+The App is available to all ages. However:  
+- **We do not knowingly collect personal information from children under 13.**  
+- Parents: if your child submits a testimony, it will be public. Review their story before submission.
+
+---
+
+## 8. Your Choices
+
+- **Avoid PII**: Simply omit sensitive details from your story.  
+- **Stop Using the App**: Uninstall to prevent further data collection.  
+- **Data Access/Deletion (Beta Only)**: Email **privacy@testifi.app** with your IP address or approximate usage time; we’ll locate and delete your beta records early.
+
+---
+
+## 9. Changes to This Policy
+
+We may update this policy during beta. Material changes will be announced in the App. Continued use after changes means you accept the new terms.
+
+---
+
+## 10. Contact Us
+
+Questions, concerns, or data requests?  
+Email: **privacy@testifi.app**
+
+---
+
+*This policy is provided for the beta phase only. A final version will be published at launch.*
