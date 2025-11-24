@@ -53,6 +53,7 @@ Encounter with Christ and decision to follow Him.
 Life changes after following Christ.
 Scripture quotations formatted as *italicized quote text* Reference. wherever they appear within the section text, using the detected translation or ESV if unclear—integrate naturally without any prefix label (e.g., avoid "Scripture:" to ensure smooth TTS flow).
 Example of scripture formatting: *But if anyone loves God, this one is known by Him.* 1 Corinthians 8:3.
+Any additional commentary or questions after a testimony must be seperated by a text line for easy reading. 
 
 # Requirements
 
