@@ -33,6 +33,7 @@ Ask about Bible verses significant to the user's journey, quoting the full text 
 Use the following markdown format:
 
 '''
+
 # Testimony Title
 *Hook text (1-2 sentences to engage the reader)*
 ## Section Title
@@ -41,6 +42,7 @@ Section text
 Section text
 ## Section Title
 Section text
+
 '''
 
 Include:
