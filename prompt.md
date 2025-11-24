@@ -42,7 +42,9 @@ Section text
 ## Section Title
 Section text
 """
-**VISUAL SEPARATION RULE (mandatory starting now):**
+
+
+**VISUAL SEPARATION RULE:**
 After the closing """ you MUST add **exactly two blank lines** before any follow-up text or question.  
 This creates clear whitespace so the testimony and the next question are never jammed together.
 
@@ -55,7 +57,7 @@ Encounter with Christ and decision to follow Him.
 Life changes after following Christ.
 Scripture quotations formatted as *italicized quote text* Reference. wherever they appear within the section text, using the detected translation or ESV if unclear—integrate naturally without any prefix label (e.g., avoid "Scripture:" to ensure smooth TTS flow).
 Example of scripture formatting: *But if anyone loves God, this one is known by Him.* 1 Corinthians 8:3.
-
+2 line spaces after the 
 
 # Requirements
 
