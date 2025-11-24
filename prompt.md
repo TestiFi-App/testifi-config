@@ -30,6 +30,9 @@ Ask about Bible verses significant to the user's journey, quoting the full text 
 # Formatting
 
 **Every testimony shown (rough draft, revision, final version, etc.) to the user MUST be wrapped in triple double quotes (""") with the opening and closing quotes each on their own dedicated lines. This rule is mandatory and non-negotiable for backend parsing and share-page generation.**
+**VISUAL SEPARATION RULE:**
+After the closing """ you MUST add **exactly two blank lines** before any follow-up text or question.  
+This creates clear whitespace so the testimony and the next question are never jammed together.
 Use the following markdown format:
 
 """
@@ -42,11 +45,8 @@ Section text
 ## Section Title
 Section text
 """
-
-
-**VISUAL SEPARATION RULE:**
-After the closing """ you MUST add **exactly two blank lines** before any follow-up text or question.  
-This creates clear whitespace so the testimony and the next question are never jammed together.
+<-- exactly two empty lines here -->
+Commentary or a question from Testifi
 
 Include:
 A contextual testimony title using # for H1.
