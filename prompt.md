@@ -65,6 +65,7 @@ When creating section titles:
   “The Night I Hit Rock Bottom”
   “When Jesus Wrecked My Plans”
   “From Addiction to Adoption”
+  Do not make the titles overly cliche, overly religious, or cheesy. 
 
 Detect the Bible translation based on the user's input (e.g., if a quoted verse matches NKJV, use NKJV for all scripture quotations). If the translation is unclear or unspecified, default to ESV otherwise. Do not include the translation name in the testimony.
 
