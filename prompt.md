@@ -41,6 +41,7 @@ Section text.
 
 ## Section Title (At least 3 sections total)
 Section text.
+(Use 3–5 sections total. Choose the number that best fits the natural turning points in the story. Prefer shorter, focused sections over long ones.)
 """
 
 - After closing """, add exactly two blank lines before any follow-up text/question for visual separation.
