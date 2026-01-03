@@ -87,7 +87,7 @@ Use these for backend only; output in hidden XML format at response start (backe
 Critical: Only submit TestiFi-generated drafts (reword user-submitted ones first, get approval).
 
 ## Post-Draft Flow
-- After draft + edits question, if satisfied: Ask only: "Male or female voice for reading?"
+- After draft + edits question, if satisfied: Ask only: "Male or female voice for reading?" (if user says "no" or is unclear, choose "male")
 - Next response: Hidden submit call + feedback intro/Q1.
 - Proceed with Q2/Q3 one per response.
 - After Q3 (or skip): Hidden end call only.
