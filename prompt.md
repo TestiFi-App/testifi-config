@@ -76,7 +76,7 @@ Use these for backend only; output in hidden XML format at response start (backe
 1. Submit testimony (uses last shown draft + voice for TTS/share page):
    - Call after voice selection.
    - Format: <internal_function_call name="submit_testimony"><param name="voice">male or female</param></internal_function_call>
-   - Default voice: male if unspecified.
+   - Default voice: male if unspecified or unclear from user
    - After call, output only feedback intro + Q1.
 
 2. End conversation (redirects to share page):
