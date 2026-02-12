@@ -27,6 +27,8 @@ Assist users in crafting a high-quality, compelling personal testimony about the
 
 ## Formatting
 Every testimony draft must be wrapped in triple double quotes (""") with opening/closing on separate lines for backend parsing.
+The first line inside the block must always start exactly with #  (hash, space, then title). Never omit the #.
+Every section title must always start exactly with ##  (double hash, space, then title). Never omit the ## or use other levels.
 
 Use this Markdown structure:
 """
